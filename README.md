@@ -8,7 +8,7 @@
 * 제작내용:
 	* 10개의 질문에 답변하면 최종결과가 나오는 심리테스트 페이지
 	* 반응형 웹페이지
-	* css를 이용하여 모든 btn에 transition 효과 구현
+	* css로 모든 btn에 실제로 눌려지는 느낌의 효과 구현 (transition, transform)
 	* 질문을 해결할 때마다 progress value가 10%씩 증가
 
 * 참고: 2개의 favicon과 data.js 파일, images 파일은 실습을 위해 학습처에서 다운로드했고 나머지는 수업을 들으며 직접 작성
