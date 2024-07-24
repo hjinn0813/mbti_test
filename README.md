@@ -1,20 +1,19 @@
 # MBTI 테스트 페이지 만들기
 2023년 11월 08일~12월 23일까지 내일배움카드를 이용해 온라인으로 수강했던 K-디지털 기초역량훈련 강의 실습과제
+<br>
+<br>
 
 ## 프로젝트 소개
-- **배포주소**
-  
-	https://mbti-test-hjcho.netlify.app
+- **배포주소**: https://mbti-test-hjcho.netlify.app
 
-- **제작기간**
-  
-	2023.11.23(목)~11.25(토)
+- **제작기간**: 2023.11.23(목) ~ 11.25(토)
 
 - **사용기술**
 
 	![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 	![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+	![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - **제작내용**
 	- 10개의 질문에 답변하면 최종결과가 나오는 심리테스트 페이지
